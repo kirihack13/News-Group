@@ -46,4 +46,9 @@ body {
 
 .form-signin button[type="submit"] {
 	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.footerclass {
+	position: fixed;
 }
